@@ -8,6 +8,16 @@
 
 ## Python
 
+| Project Link | Area | Project Description | Libraries |    
+|---|---|---|---|
+
 ## SQL
 
+| Project Link | Area of Analysis | Project Description | 
+|---|---|---|
+
+
 ## Power BI
+
+| Project Link | Project Description | Dashboard Link |
+|---|---|---|
